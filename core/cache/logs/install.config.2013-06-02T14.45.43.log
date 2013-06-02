@@ -1,0 +1,20 @@
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/30d8087d41cec4d968824496e1163b26/0/ to /var/www/modxfirst/index.php
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/30d8087d41cec4d968824496e1163b26/1/ to /var/www/modxfirst/ht.access
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/0/ to /var/www/modxfirst/manager/assets
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/1/ to /var/www/modxfirst/manager/controllers
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/2/ to /var/www/modxfirst/manager/templates
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/3/ to /var/www/modxfirst/manager/min
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/4/ to /var/www/modxfirst/manager/ht.access
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/5/ to /var/www/modxfirst/manager/cache.manifest.php
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not copy /var/www/modxfirst/core/packages/core/modContext/c14eb1256ab6c95f844ced3addae4840/6/ to /var/www/modxfirst/manager/index.php
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/b0b51b3583ca173467fabdbeaa1decd7/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/11eb7f1b1806b425deec2b5a6020765c/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/66428576487f8655f07fdfcdc200ca13/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/28dae9a6e8aec06333819bb98e752fbf/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/de88dcb037d57b0a7fa195dc36539502/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/f0f2e1b9a45a10da2bf7a7269401962b/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/72e6f8436958588d58829e48881e7e1c/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/710b8328e84fab41c05dea7e4b9b7a6d/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/c6718c080f0c04a23fac3ad374562e11/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/94937aaf214017bdf5ef179afe743849/ to /var/www/modxfirst/connectors/
+[2013-06-02 14:45:49] (ERROR @ /modxfirst/setup/index.php) Could not install files from /var/www/modxfirst/core/packages/core/xPDOFileVehicle/71f0917701a6ed771630b71a48060383/ to /var/www/modxfirst/connectors/
