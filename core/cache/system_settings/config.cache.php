@@ -176,7 +176,7 @@
   'server_protocol' => 'http',
   'session_cookie_domain' => '',
   'session_cookie_lifetime' => '604800',
-  'session_cookie_path' => '',
+  'session_cookie_path' => '/',
   'session_cookie_secure' => '',
   'session_cookie_httponly' => '1',
   'session_gc_maxlifetime' => '604800',
