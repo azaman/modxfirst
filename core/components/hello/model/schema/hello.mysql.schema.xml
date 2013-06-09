@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model package="hello" baseClass="xPDOObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
+	<object class="Quotation" table="quotation" extends="xPDOSimpleObject">
+		<field key="quote" dbtype="mediumtext" phptype="string" null="false" index="index" />
+		<field key="author" dbtype="varchar" precision="200" phptype="string" null="false" default="" index="index" />
+		<field key="topic" dbtype="varchar" precision="20" phptype="string" null="false" default="" index="index" />
+
+		<index alias="topic" name="topic" primary="false" unique="false" type="BTREE" >
+			<column key="topic" length="" collation="A" null="false" />
+		</index>
+		<index alias="author" name="author" primary="false" unique="false" type="BTREE" >
+			<column key="author" length="" collation="A" null="false" />
+		</index>
+		<index alias="quote" name="quote" primary="false" unique="false" type="FULLTEXT" >
+			<column key="quote" length="" collation="" null="false" />
+			<column key="author" length="" collation="" null="false" />
+			<column key="topic" length="" collation="" null="false" />
+		</index>
+	</object>
+</model>
