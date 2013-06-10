@@ -1,0 +1,3 @@
+[submodule "core/components/facebook-php-sdk"]
+	path = core/components/facebook-php-sdk
+	url = https://github.com/facebook/facebook-php-sdk
