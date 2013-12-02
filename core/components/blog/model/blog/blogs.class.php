@@ -1,2 +1,2 @@
 <?php
-class Blogs extends xPDOObject {}
+class Blogs extends xPDOSimpleObject {}

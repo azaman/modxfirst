@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model package="blog" baseClass="xPDOObject" platform="mysql" defaultEngine="MyISAM" version="1.1">
-	<object class="Blogs" table="blogs" extends="xPDOObject">
-		<field key="id" dbtype="int" precision="10" phptype="integer" null="false" index="pk" />
-		<field key="author" dbtype="varchar" precision="255" phptype="string" null="false" />
-		<field key="blog" dbtype="text" phptype="string" null="false" />
-		<field key="create_time" dbtype="timestamp" phptype="timestamp" null="false" default="CURRENT_TIMESTAMP" />
+	<object class="Accounts" table="accounts" extends="xPDOObject">
+		<field key="id" dbtype="int" precision="10" attributes="unsigned" phptype="integer" null="false" index="pk" />
+		<field key="username" dbtype="varchar" precision="255" phptype="string" null="false" />
+		<field key="password" dbtype="varchar" precision="255" phptype="string" null="false" />
 
 		<index alias="PRIMARY" name="PRIMARY" primary="true" unique="true" type="BTREE" >
 			<column key="id" length="" collation="A" null="false" />
 		</index>
+	</object>
+	<object class="Blogs" table="blogs" extends="xPDOSimpleObject">
+		<field key="author" dbtype="varchar" precision="255" phptype="string" null="false" />
+		<field key="blog" dbtype="text" phptype="string" null="false" />
+		<field key="create_time" dbtype="timestamp" phptype="timestamp" null="false" default="CURRENT_TIMESTAMP" />
 	</object>
 </model>
